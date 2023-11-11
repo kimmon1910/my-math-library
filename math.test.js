@@ -1,4 +1,4 @@
-const math = requier('./math')
+const math = requier('./mymath')
 const assert = requier('assert')
 
 assert.strictEqual(math.sum(3,2),5 ,'should sum two numders');
